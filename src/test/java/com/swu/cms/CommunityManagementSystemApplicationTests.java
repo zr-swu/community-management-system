@@ -1,0 +1,13 @@
+package com.swu.cms;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CommunityManagementSystemApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
